@@ -1,16 +1,18 @@
-# bankstatementpp
+# Bank Statement App
 
 Desafio Banco Afro (Tela de Extrato Bancário)
 
-## Getting Started
+## Projeto
 
-This project is a starting point for a Flutter application.
+O desafio consiste em desenvolver uma aplicação Flutter Mobile que apresenta o extrato bancário de uma conta fictícia.
 
-A few resources to get you started if this is your first Flutter project:
+Utilizamos nestre projeto o Flutter na versão 2.0.3
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Packages utilizados:
+  - GetX;
+  - Intl; e
+  - Googlefonts.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link para demonstração: https://youtu.be/jEYWjMY0cA8
+
+Link para download do apk: https://drive.google.com/file/d/1Bm0RC7dkmtl1hGWa7agpx2DBoe42wXyi/view?usp=sharing
